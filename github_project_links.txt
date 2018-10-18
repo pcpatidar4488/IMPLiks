@@ -1,0 +1,6 @@
+
+1. PhotoView aims to help produce an easily usable implementation of a zooming Android ImageView.
+
+Link :- https://github.com/chrisbanes/PhotoView.git
+
+2. 
