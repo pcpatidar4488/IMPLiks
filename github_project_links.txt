@@ -3,4 +3,10 @@
 
 Link :- https://github.com/chrisbanes/PhotoView.git
 
-2. 
+===================================================
+2. ZoomLayout & ZoomEngine
+Flexible utilities to control and animate zoom and translation of Views and much more - either programmatically or through touch events.
+
+Link :- https://github.com/natario1/ZoomLayout
+==============================================
+3. 
