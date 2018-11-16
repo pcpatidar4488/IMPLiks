@@ -13,4 +13,14 @@ Link :- https://github.com/natario1/ZoomLayout
 
 Link :- https://github.com/wasabeef/awesome-android-ui
 ======================================================
-4. 
+4. Demos the new Android Design library. This is not an exhaustive sample, but shows some of the important features in the Design library:
+
+Collapsing Toolbar
+FloatingActionButton
+View anchoring
+NavigationView
+Snackbar
+
+Link :- https://github.com/chrisbanes/cheesesquare
+======================================================
+5.
